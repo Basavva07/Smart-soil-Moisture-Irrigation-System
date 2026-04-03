@@ -3,7 +3,7 @@ import time
 from telegram.ext import Updater, CommandHandler
 
 # 🔴 CHANGE THESE
-BOT_TOKEN = "8039709395:AAFmhk7-VhazC1vF7FJBfPW-JUkVpROtSZQ"
+BOT_TOKEN = "paste telegram token"
 COM_PORT = "COM4"        # Windows: COM3 | Linux/Mac: /dev/ttyUSB0
 BAUD_RATE = 9600
 
