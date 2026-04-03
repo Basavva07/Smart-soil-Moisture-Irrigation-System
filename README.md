@@ -55,7 +55,8 @@ This project is highly useful for **small-scale farming and smart agriculture ap
 ---
 
 ## 🔌 Circuit Diagram
-Add your circuit diagram image here.
+<img width="618" height="413" alt="circuite_diagram" src="https://github.com/user-attachments/assets/3545843d-3998-49b3-a28a-cfe751a06c88" />
+## Work Flow Diagram
+<img width="614" height="430" alt="workflow_diagram" src="https://github.com/user-attachments/assets/6532dd23-fe4f-4ce3-929a-a7de2e0b5b41" />
 
-```text
-Upload image in project folder and replace below:
+
